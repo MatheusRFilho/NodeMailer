@@ -3,8 +3,7 @@
 Repositório foi criado com o intuito de assistir e estudar o conteúdo sobre nodeJs dado pela rockeatseat durante a nextlevelweek
 
 ## Tecnologias Estudadas
-<img  src="https://img.shields.io/static/v1?label=&message=Node.JS&color=CDCDCD&style=for-the-badge&logo=Node.js"/>
-<img  src="https://img.shields.io/static/v1?label=&message=Typescript&color=CDCDCD&style=for-the-badge&logo=TypeScript"/>
+<img  src="https://img.shields.io/static/v1?label=&message=Node.JS&color=CDCDCD&style=for-the-badge&logo=Node.js"/> <img  src="https://img.shields.io/static/v1?label=&message=Typescript&color=CDCDCD&style=for-the-badge&logo=TypeScript"/>
 
 ## Requisitos para rodar o projeto
 É necessário os seguintes itens para poder rodar o projeto:
