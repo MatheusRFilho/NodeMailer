@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusRFilho/Nlw-4.0-Node.git",
+  "author": "Matheus Filho <matheusrodrigofilho@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
