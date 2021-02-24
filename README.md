@@ -21,6 +21,8 @@ Primeiramente faça um clone do projeto:
 Apos a realização instale as bibliotecas:
 `$ yarn`
 Apos a instalação das bibliotecas execute o comando:
+`$ yarn typeorm migration:run`
+Para a criação das migrations
 `$ yarn dev`
 para executar o servidor.
 
