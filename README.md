@@ -30,14 +30,15 @@ para executar o servidor.
 
 ### Dia 1
 
-Durante o primeiro dia do evento foi criado o repositório, inicializamos o Type script para que projeto possa ser executado foi passado sobre alguns métodos https e também foi criado algumas rotas
+Começamos a criar algumas rotas de exemplos
 
 ### Dia 2
 
 Começando com Banco de dados
-instalando o typeorm, reflect metadata e sqlite
 
 ### Dia 3
+
+Terminando com o banco de dados e Fazendo testes
 
 ### Dia 4
 
