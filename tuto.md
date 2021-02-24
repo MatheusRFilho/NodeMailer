@@ -24,3 +24,5 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add uuid
 
 # yarn add @types/uuid
+
+# yarn typeorm migration:create -n 'nome da migration'
