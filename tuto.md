@@ -15,3 +15,12 @@
 ## começando a trabalhar com banco
 
 # yarn add typeorm reflect-metadata sqlite3
+
+Descomentar as linhas do arquivo tsconfig.json
+"strictPropertyInitialization": false, Trocar aqui pra false
+"experimentalDecorators": true,
+"emitDecoratorMetadata": true,
+
+# yarn add uuid
+
+# yarn add @types/uuid
