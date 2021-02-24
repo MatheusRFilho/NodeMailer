@@ -32,3 +32,5 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add jest @types/jest -D
 
 # yarn jest --init
+
+# yarn add ts-jest -D
