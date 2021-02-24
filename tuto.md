@@ -26,3 +26,9 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add @types/uuid
 
 # yarn typeorm migration:create -n 'nome da migration'
+
+# Ferramentas pra testes
+
+# yarn add jest @types/jest -D
+
+# yarn jest --init
