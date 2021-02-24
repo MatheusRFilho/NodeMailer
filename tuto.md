@@ -9,3 +9,9 @@
 # yarn tsc --init || pra criar o tsconfig.json
 
 # yarn add ts-node-dev -D || permite que o codigo ts seja executado
+
+# Dia 2
+
+## começando a trabalhar com banco
+
+# yarn add typeorm reflect-metadata sqlite3
