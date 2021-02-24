@@ -15,6 +15,7 @@ describe("Users", () => {
             name: "User Example",
         });
         expect(response.status).toBe(201);
+        expect(response.body).toHaveProperty("id");
     });
 
     it("Should not be able to create a new user with exists email", async () => {
