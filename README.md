@@ -26,19 +26,22 @@ Para a criação das migrations
 `$ yarn dev`
 para executar o servidor.
 
+Para testar em um ambiente de testes utilize o comando:
+`yarn test`
+
 ## Resumo dos dias da semana
 
 ### Dia 1
 
-Começamos a criar algumas rotas de exemplos
+Durante o primeiro dia do evento foi criado o repositório, inicializamos o Type script para que projeto possa ser executado foi passado sobre alguns métodos https e também foi criado algumas rotas
 
 ### Dia 2
 
-Começando com Banco de dados
+Aprendendo a criar controller, models e um pouco sobre repositorios
 
 ### Dia 3
 
-Terminando com o banco de dados e Fazendo testes
+Aprendendo a utilizar repositorios e sobre testes com o Jest
 
 ### Dia 4
 
