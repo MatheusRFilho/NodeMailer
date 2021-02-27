@@ -36,3 +36,5 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add ts-jest -D
 
 # yarn add supertest @types/supertest -D
+
+# yarn add nodemailer
