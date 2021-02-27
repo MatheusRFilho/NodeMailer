@@ -42,3 +42,5 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add handlebars
 
 # yarn add yup
+
+# yarn add express-async-errors

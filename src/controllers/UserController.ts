@@ -16,9 +16,7 @@ class UserController {
         try {
             await schema.validate(request.body, { abortEarly: false })
         } catch (error) {
-            return response.status(400).json({
-                error: error
-            })
+            throw new AppError(error);
         }
 
         const usersRepository = getCustomRepository(UsersRepository);
