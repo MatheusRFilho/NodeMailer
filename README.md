@@ -45,6 +45,8 @@ Aprendendo a utilizar repositorios e sobre testes com o Jest
 
 ### Dia 4
 
+Desenvolvimento da parte de envio de emails
+
 ### Dia 5
 
 ## Desafios
