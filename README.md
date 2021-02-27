@@ -2,6 +2,10 @@
 
 Repositório foi criado com o intuito de assistir e estudar o conteúdo sobre nodeJs dado pela rockeatseat durante a nextlevelweek
 
+## Objetivo do Repositorio
+
+API para calculo de NPS de uma empresa
+
 ## Tecnologias Estudadas
 
 <img  src="https://img.shields.io/static/v1?label=&message=Node.JS&color=CDCDCD&style=for-the-badge&logo=Node.js"/> <img  src="https://img.shields.io/static/v1?label=&message=Typescript&color=CDCDCD&style=for-the-badge&logo=TypeScript"/>
@@ -51,6 +55,3 @@ Desenvolvimento da parte de envio de emails.
 
 Concluindo a api.
 
-## Desafios
-
-- [ ] Ainda não foram Divulgados
