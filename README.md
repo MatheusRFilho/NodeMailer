@@ -33,21 +33,23 @@ Para testar em um ambiente de testes utilize o comando:
 
 ### Dia 1
 
-Durante o primeiro dia do evento foi criado o repositório, inicializamos o Type script para que projeto possa ser executado foi passado sobre alguns métodos https e também foi criado algumas rotas
+Durante o primeiro dia do evento foi criado o repositório, inicializamos o Type script para que projeto possa ser executado foi passado sobre alguns métodos https e também foi criado algumas rotas.
 
 ### Dia 2
 
-Aprendendo a criar controller, models e um pouco sobre repositorios
+Aprendendo a criar controller, models e um pouco sobre repositorios.
 
 ### Dia 3
 
-Aprendendo a utilizar repositorios e sobre testes com o Jest
+Aprendendo a utilizar repositorios e sobre testes com o Jest.
 
 ### Dia 4
 
-Desenvolvimento da parte de envio de emails
+Desenvolvimento da parte de envio de emails.
 
 ### Dia 5
+
+Concluindo a api.
 
 ## Desafios
 
