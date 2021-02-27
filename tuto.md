@@ -40,3 +40,5 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add nodemailer
 
 # yarn add handlebars
+
+# yarn add yup
