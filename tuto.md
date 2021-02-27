@@ -38,3 +38,5 @@ Descomentar as linhas do arquivo tsconfig.json
 # yarn add supertest @types/supertest -D
 
 # yarn add nodemailer
+
+# yarn add handlebars
