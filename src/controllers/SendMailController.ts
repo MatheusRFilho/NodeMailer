@@ -30,21 +30,24 @@ class SendMailController {
             });
         }
 
+        const surveyuser = await surveyUserRepository.findOne({
+            where: {user_id: user.id, value: null},
+            relations: ["user", "survey"],
+        });
+
         const npsPath = resolve(__dirname, "..", "views", "emails", "npsMail.hbs");
         const variables = {
             name: user.name,
             title: survey.title,
             description: survey.description,
-            user_id: user.id,
+            id: "",
             link: process.env.URL_MAIL
         }
 
-        const surveyuser = await surveyUserRepository.findOne({
-            where: [{user_id: user.id}, {value: null}],
-            relations: ["user", "survey"],
-        });
+        
 
         if (surveyuser) {
+            variables.id = surveyuser.id;
             await SendMailService.execute(email, survey.title, variables, npsPath);
             return response.json(surveyuser);
         }
@@ -58,7 +61,7 @@ class SendMailController {
         
         await surveyUserRepository.save(surveyUser);
         
-        
+        variables.id = surveyUser.id; 
         // Enviar Email
         
         
